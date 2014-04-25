@@ -1,0 +1,176 @@
+
+@-ms-keyframes spin {
+  0% { -ms-transform: rotateY(-30deg); }
+  50% { -ms-transform: rotateY(30deg); }
+  100% { -ms-transform: rotateY(-30deg); }
+}
+@-moz-keyframes spin {
+  0% { -moz-transform: rotateY(-30deg); }
+  50% { -moz-transform: rotateY(30deg); }
+  100% { -moz-transform: rotateY(-30deg); }
+}
+@-webkit-keyframes spin {
+  0% { -webkit-transform: rotateY(-30deg); }
+  50% { -webkit-transform: rotateY(30deg); }
+  100% { -webkit-transform: rotateY(-30deg); }
+}
+@keyframes spin {
+  0% { transform: rotateY(-30deg); }
+  50% { transform: rotateY(30deg); }
+  100% { transform: rotateY(-30deg); }
+}
+
+.slide {
+  width: 1024px;
+  height: 768px;
+}
+.impress-enabled .step {
+  opacity: 0;
+}
+#title {
+  margin:0;
+  padding:0;
+}
+#title h1 {
+  margin:0;
+  padding:0;
+  font-size: 72px;
+  line-height: 72px;
+  position: relative;
+  top: 500px;
+  left: 72px;
+}
+#title h2 {
+  margin:0;
+  padding:0;
+  font-size: 60px;
+  line-height: 72px;
+  color: #ccc;
+  text-shadow: none;
+  position: relative;
+  top: 500px;
+  left: 72px;
+}
+#title img {
+  position: absolute;
+  top:72px;
+  left:59px;
+  height: 50%;
+  -webkit-animation-name: spin;
+  -webkit-animation-duration: 4000ms;
+  -webkit-animation-iteration-count: infinite;
+  -webkit-animation-timing-function: linear;
+  -moz-animation-name: spin;
+  -moz-animation-duration: 4000ms;
+  -moz-animation-iteration-count: infinite;
+  -moz-animation-timing-function: linear;
+  -ms-animation-name: spin;
+  -ms-animation-duration: 4000ms;
+  -ms-animation-iteration-count: infinite;
+  -ms-animation-timing-function: linear;
+
+  animation-name: spin;
+  animation-duration: 4000ms;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+}
+
+.image{
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+#programmer {
+  background-image: url('../careerday/Computer-Programmer-Wallpaper.jpg');
+}
+#web_applications {
+  background-image: url('../careerday/internet4.jpg');
+}
+#math {
+  background-image: url('../careerday/math.jpg');
+}
+#geometry {
+  background-image: url('../careerday/geometry.jpg');
+}
+#agile {
+  background-image: url('../careerday/agile.png');
+}
+#agile-defined {
+  font-size: 4em;
+  line-height: 1em;
+}
+#sprint {
+  background-image: url('../careerday/bolt.jpg');
+}
+#sprint-co {
+  background-image: url('../careerday/sprint_logo.jpg');
+}
+#sprint-agile {
+  background-image: url('../careerday/scrum_process_big.jpg');
+  background-size: contain;
+}
+#sprint-boring {
+  background-image: url('../careerday/bored.gif');
+}
+#sprint-demo {
+  background-image: url('../careerday/demo.jpg');
+}
+#sprint-bsod {
+  background-image: url('../careerday/bsod.png');
+}
+#bugs {
+  background-image: url('../careerday/oldComp.jpg');
+}
+#maze {
+  background-image: url('../careerday/maze.jpg');
+}
+#communicate {
+  background-image: url('../careerday/Poor-Communication.jpg');
+  background-size: contain;
+}
+#learn {
+  background-image: url('../careerday/weight-lifting-brain1.jpg');
+  background-size: contain;
+}
+#possible {
+  background-image: url('../careerday/possible.png');
+}
+#stuck {
+  background-image: url('../careerday/stuck.jpg');
+}
+#not_found {
+  background-image: url('../careerday/404.png');
+  background-size: auto;
+  background-color: #75BFCA;
+}
+#error {
+  background-image: url('../careerday/wrong.png');
+}
+#tools {
+  background-image: url('../careerday/tools.jpg');
+}
+#source_control {
+  background-image: url('../careerday/source-control.png');
+  background-size: contain;
+}
+#keyboard {
+  background-image: url('../careerday/keyboard.jpg');
+}
+#robots {
+  background-image: url('../careerday/Robots1.jpg');
+}
+#cooler {
+  background-image: url('../careerday/scifiui.png');
+}
+#social {
+  background-image: url('../careerday/Social-Media.jpg');
+}
+#software {
+  background-image: url('../careerday/softwaredev11.jpg');
+}
+#vic20 {
+  background-image: url('../careerday/vic20tcb2.jpg');
+}
+#future {
+  background-image: url('../careerday/future.jpg');
+}
