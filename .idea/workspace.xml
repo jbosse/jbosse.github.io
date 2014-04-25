@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e4ac22d-4c67-4b53-bdf0-21e54b1868c9" name="Default" comment="" />
+    <list default="true" id="2e4ac22d-4c67-4b53-bdf0-21e54b1868c9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/career-day.html" afterPath="$PROJECT_DIR$/career-day.html" />
+    </list>
     <ignored path="jbosse.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -26,7 +28,7 @@
       <file leaf-file-name="career-day.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/career-day.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="91" column="58" selection-start="5641" selection-end="5641" vertical-scroll-proportion="0.8541329" vertical-offset="838" max-vertical-offset="1515">
+            <state line="94" column="31" selection-start="5761" selection-end="5761" vertical-scroll-proportion="0.92706645" vertical-offset="838" max-vertical-offset="1545">
               <folding />
             </state>
           </provider>
@@ -284,7 +286,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/career-day.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="91" column="58" selection-start="5641" selection-end="5641" vertical-scroll-proportion="0.8541329" vertical-offset="838" max-vertical-offset="1515">
+        <state line="94" column="31" selection-start="5761" selection-end="5761" vertical-scroll-proportion="0.92706645" vertical-offset="838" max-vertical-offset="1545">
           <folding />
         </state>
       </provider>
