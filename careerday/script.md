@@ -5,6 +5,18 @@ More specifically, I build web applications.
 
 Does anyone know of any programmers?
 
+This is Markus Person, he invented Minecraft.
+How many of you play minecraft?
+
+Has anyone seen frozen?
+Software allowed the animators to make that movie.
+
+Has anyone seen a football game?
+Software is what makes the first down line show on your screen.
+
+http://www.berniepope.id.au/html/js-turtle/turtle.html
+
+
 2. What are the educational needs for this career?
 ==================================================
 You need to learn how to do math, especially geometry and algebra.
@@ -18,7 +30,9 @@ On day one, we meet with the business owners to determine what new features they
 After they tell us all their new ideas, we the developers tell them what we think we can build in two weeks.
 Then for two weeks we write the code for the features they want.
 At the end of two weeks, we show them what we made and get their feedback.
-Sometimes things are broken? Does anyone know what we call something that is broken in a computer program?
+Sometimes things are broken? 
+Does anyone know what we call something that is broken in a computer program?
+
 
 4. What are the skills needed to perform this job?
 ==================================================
@@ -32,6 +46,9 @@ In the computer, you can do anything.
 Sometimes you get stuck.
 Sometimes your program does something wrong.
 Sometimes your program does something really wrong.
+
+How many people have had their computer show an error like this?
+In my family everyone calls me when their computer doesn't work right.
 
 6. What kind of technoogy does this job use now?
 ================================================

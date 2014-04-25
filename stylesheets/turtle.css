@@ -1,0 +1,48 @@
+#wrap {
+   margin:0;
+   padding:0;
+}
+
+#wrap h1 {
+   text-align:center;
+  font-size: 48px;
+  line-height: 24px;
+  margin-top: -12px;
+  margin-bottom: 24px;
+}
+
+#wrap {
+   width:1000px;
+   margin:0 auto;
+}
+
+#leftcolumn {
+   float:left;
+   width:50%;
+}
+
+#midcolumn {
+   float:left;
+   width:50%;
+}
+
+#rightcolumn {
+   float:right;
+   width:50%;
+  font-size: 12px;
+  line-height: 16px;
+}
+
+#turtlecanvas {
+   background:#fff;
+   border: 1px solid red;
+}
+
+#definitions {
+   width:80%;
+  font-size:12px;
+}
+
+#command {
+   width:300px;
+}
