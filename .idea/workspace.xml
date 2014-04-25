@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2e4ac22d-4c67-4b53-bdf0-21e54b1868c9" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/careerday/Computer-Programmer-Wallpaper.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/careerday/Poor-Communication.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/careerday/Ralph_Walking_Render.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/careerday/bolt.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/careerday/geometry.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/careerday/markus+persson+minecraft.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/careerday/math.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/careerday/maze.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/careerday/oldComp.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/careerday/possible.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/careerday/scrum_process_big.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/careerday/sprint_logo.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/careerday/stuck-animal-4.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/careerday/stuck-jeep2.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/careerday/stuck.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/careerday/weight-lifting-brain1.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/stylesheets/career-day.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/career-day.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascripts/impress.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascripts/jquery.impressR.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascripts/jquery.signalR-1.0.0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/javascripts/jquery.signalRamp.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/careerday/script.md" />
-    </list>
+    <list default="true" id="2e4ac22d-4c67-4b53-bdf0-21e54b1868c9" name="Default" comment="" />
     <ignored path="jbosse.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
