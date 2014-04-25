@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e4ac22d-4c67-4b53-bdf0-21e54b1868c9" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/stylesheets/career-day.css" afterPath="$PROJECT_DIR$/stylesheets/career-day.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/career-day.html" afterPath="$PROJECT_DIR$/career-day.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/careerday/script.md" afterPath="$PROJECT_DIR$/careerday/script.md" />
     </list>
     <ignored path="jbosse.github.com.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -25,22 +27,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="career-day.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="career-day.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/career-day.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="94" column="31" selection-start="5761" selection-end="5761" vertical-scroll-proportion="0.92706645" vertical-offset="838" max-vertical-offset="1545">
+            <state line="23" column="26" selection-start="1103" selection-end="1103" vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="1575">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="career-day.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="career-day.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/stylesheets/career-day.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="7" selection-start="30" selection-end="62" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="2715">
-              <folding>
-                <marker date="1398393402000" expanded="true" signature="484:600" placeholder="..." />
-              </folding>
+            <state line="86" column="67" selection-start="1957" selection-end="1957" vertical-scroll-proportion="0.4266055" vertical-offset="1011" max-vertical-offset="2760">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -77,8 +77,8 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/stylesheets/impress.css" />
-        <option value="$PROJECT_DIR$/stylesheets/career-day.css" />
         <option value="$PROJECT_DIR$/career-day.html" />
+        <option value="$PROJECT_DIR$/stylesheets/career-day.css" />
       </list>
     </option>
   </component>
@@ -156,6 +156,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="javascripts" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jbosse.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="jbosse.github.com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="careerday" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -261,15 +275,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/stylesheets/career-day.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="7" selection-start="30" selection-end="62" vertical-scroll-proportion="0.0" vertical-offset="561" max-vertical-offset="2715">
-          <folding>
-            <marker date="1398393402000" expanded="true" signature="484:600" placeholder="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/impress.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="259" column="0" selection-start="6503" selection-end="6503" vertical-scroll-proportion="-13.142858" vertical-offset="2038" max-vertical-offset="2650">
@@ -286,7 +291,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/career-day.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="94" column="31" selection-start="5761" selection-end="5761" vertical-scroll-proportion="0.92706645" vertical-offset="838" max-vertical-offset="1545">
+        <state line="23" column="26" selection-start="1103" selection-end="1103" vertical-scroll-proportion="-14.375" vertical-offset="0" max-vertical-offset="1575">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/stylesheets/career-day.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="86" column="67" selection-start="1957" selection-end="1957" vertical-scroll-proportion="0.4266055" vertical-offset="1011" max-vertical-offset="2760">
           <folding />
         </state>
       </provider>

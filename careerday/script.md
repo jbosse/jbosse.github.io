@@ -3,6 +3,8 @@
 I am a computer programmer.
 More specifically, I build web applications.
 
+Does anyone know of any programmers?
+
 2. What are the educational needs for this career?
 ==================================================
 You need to learn how to do math, especially geometry and algebra.
@@ -21,7 +23,7 @@ Sometimes things are broken? Does anyone know what we call something that is bro
 4. What are the skills needed to perform this job?
 ==================================================
 In order to be a good programmer, you need to learn how to solve problems.
-In order to help someone bring their idea to life, you need good communication skills.
+In order to help someone bring their idea to life, you need to be a good listener.
 Technology is always changing, so you also have to love to learn.
 
 5. What are the benefits and tradeoffs of this occupation?
